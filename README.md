@@ -1,4 +1,4 @@
-# ads-network-sdk
+# Multi-Network-sdk
 A library for displaying ads from multiple ad networks
 
 Implementation build.gradle (Module: app)
